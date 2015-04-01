@@ -1,0 +1,16 @@
+/bootstrap/compiled.php
+/vendor
+/.idea/
+/app/storage/cache
+/app/config/local/
+/public/data
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+*.wav
+*.m4a
+*.xls
+vendor.zip

@@ -1,0 +1,3 @@
+[submodule "public/assets"]
+	path = public/assets
+	url = git@dev.enstar.com:xiaoying-static.git
